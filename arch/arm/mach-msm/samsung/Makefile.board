@@ -1,0 +1,3 @@
+obj-$(CONFIG_MACH_ANCORA) += board-ancora.o board-ancora-regulator.o
+obj-$(CONFIG_ARCH_ANCORA_TMO) += board-ancora_tmo.o board-ancora_tmo-regulator.o
+obj-$(CONFIG_MACH_ARIESVE) += board-ariesve.o board-ariesve-regulator
